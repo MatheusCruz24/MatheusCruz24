@@ -1,6 +1,6 @@
 # Hello, World! Eu sou o Matheus Cruz
-• 🔭 Desenvolvedor Front-End
-• 🪴 Estudando TypeScript, Angular, React e Vue.js
+• 🔭 Biólogo de formação, pós graduado em Educação Inclusiva e apaixonado por programação.
+• 🪴 Estudante de Big Data no Agronégocio ( Python, Angular, JavaScript)
 • 🧫 Biólogo em transição de carreira para área Tech 💻
 
 <div align="center">
@@ -10,12 +10,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Angular" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="Matheus-Bootstrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Matheus-Bootstrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Matheus-SQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
